@@ -2,7 +2,7 @@
   border:solid greenyellow 2px;
   margin-left: 10px;
   margin-right: 10px;
-  width: 400px;
+  width: 500px;
   height: 500;
 
   display: flex;
@@ -19,7 +19,7 @@ margin-top: 15px;
 }
 
 .big-card__description{
-margin-top: 20px;
+margin-top: 40px;
 }
 
 .big-card__description >p >a{
