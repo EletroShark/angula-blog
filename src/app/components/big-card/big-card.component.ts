@@ -12,7 +12,9 @@ photoCover : string=""
 cardTitle:string=""
 @Input()
 cardDescription : string = "  "
-  constructor() { }
+@Input()
+Id:string="0"
+constructor() { }
 
   ngOnInit(): void {
   }
